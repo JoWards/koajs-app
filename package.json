@@ -1,0 +1,24 @@
+{
+  "name": "koajs-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoWards/koajs-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoWards/koajs-app/issues"
+  },
+  "homepage": "https://github.com/JoWards/koajs-app#readme",
+  "dependencies": {
+    "koa": "^2.13.1",
+    "koa-basic-auth": "^4.0.0"
+  }
+}
